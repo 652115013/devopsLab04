@@ -3,7 +3,7 @@
 name: NewFeature
 description: feature req
 title: "Feature: "
-labels: 
+labels: ""
 assignees: 
  - octocat
 body:
