@@ -3,8 +3,8 @@
 name: NewFeature
 description: feature req
 title: "Feature: "
-labels: ''
-assignees: ''
+labels: 
+assignees: 
  - octocat
 body:
  - type: markdown
